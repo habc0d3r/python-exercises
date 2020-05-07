@@ -1,4 +1,4 @@
-#TODO: Patter printing
+#TODO: Pattern printing
 # Input = Integer n
 # Boolean = True or False
 # True n=4 (n is no. of rows)
